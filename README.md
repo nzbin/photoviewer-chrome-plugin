@@ -1,2 +1,2 @@
-# magnify-box
+# photo-viewer
 Magnif in Chrome plugin
