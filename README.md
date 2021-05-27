@@ -1,2 +1,3 @@
-# photo-viewer
-Magnif in Chrome plugin
+# PhotoViewer
+
+PhotoViewer plugin for Chrome.
